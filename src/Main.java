@@ -321,6 +321,6 @@ class Fdemo extends Frame implements  ActionListener{
 
 public class Main {
     public static void main(String[] args) {
-        Fdemo f = new Fdemo();
+        new Fdemo();
     }
 }
